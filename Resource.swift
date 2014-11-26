@@ -1,6 +1,5 @@
 //
 //  Resource.swift
-//  Miles
 //
 //  Created by Rajesh Segu on 9/18/14.
 //  Copyright (c) 2014. All rights reserved.
